@@ -184,11 +184,13 @@ vibe-coding-website/
 - [MengTo/Skills](https://github.com/MengTo/Skills) — 123个Agent Skills规范库
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) — 5阶段工程化模板
 
-## 📱 获取更多开源 Skill
+## 作者与支持
 
-想获取更多开源 Skill、AI 工具和实战案例？扫描下方二维码加我微信，备注「vibe」，拉你进开源 Skill 交流群。
+**作者**：sansan19900801
 
-![微信二维码](wechat-qrcode.png)
+想获取更多开源 Skill，扫描下方二维码加我微信，备注「vibe」
+
+![微信二维码](wechat-qrcode.jpg)
 
 ## 📄 License
 
