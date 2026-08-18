@@ -188,9 +188,9 @@ vibe-coding-website/
 
 作者：[@sansan19900801](https://github.com/sansan19900801)
 
-如需加入开源 Skill 交流群，可扫码或打开 [答疑群说明](docs/support.md)。
+如需加入付费答疑群，可扫码或打开 [答疑群说明](docs/support.md)。
 
-<img src="assets/wechat-qr.jpg" alt="微信二维码" width="360">
+<img src="assets/wechat-qr.jpg" alt="三三微信二维码" width="360">
 
 ## 📄 License
 
